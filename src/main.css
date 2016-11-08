@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,900');
+
+html, body {
+  color: #333;
+  background-color: #BABACA;
+  font-family: 'Roboto', Helvetica, Arial, sans-serif;
+  margin: 0;
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+html {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+  cursor: default;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+ul, li {
+  list-style: none;
+}
